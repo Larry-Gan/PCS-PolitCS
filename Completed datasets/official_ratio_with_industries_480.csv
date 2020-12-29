@@ -1,0 +1,501 @@
+Company Name,CEO Name,CEO Pay,Median Employee Pay,CEO Pay Ratio,GICS Sector,GICS Sub-Industry,Scraped?
+3M Company,Michael F. Roman,18321566,57494,319,Industrials,Industrial Conglomerates,yes
+Abbott Laboratories,na,-1,-1,-1,Health Care,Health Care Equipment,no
+AbbVie Inc.,Richard A. Gonzalez,21610598,155885,139,Health Care,Pharmaceuticals,yes
+ABIOMED Inc,Michael R. Minogue,16612766,112393,148,Health Care,Health Care Equipment,yes
+Accenture plc,na,-1,-1,-1,Information Technology,IT Consulting & Other Services,no
+Activision Blizzard,Robert A. Kotick,30122896,94308,319,Communication Services,Interactive Home Entertainment,yes
+Adobe Inc.,Shantanu Narayen,39145631,147115,266,Information Technology,Application Software,yes
+Advanced Micro Devices Inc,Lisa T. Su,58534288,96874,604,Information Technology,Semiconductors,yes
+Advance Auto Parts,Thomas R. Greco,7691513,19463,395,Consumer Discretionary,Automotive Retail,yes
+AES Corp,Andrés Gluski,10827886,61975,175,Utilities,Independent Power Producers & Energy Traders,yes
+AFLAC Inc,Daniel P. Amos,14108852,56371,250,Financials,Life & Health Insurance,yes
+Agilent Technologies Inc,Michael R. McMullen,12520566,70014,179,Health Care,Health Care Equipment,yes
+Air Products & Chemicals Inc,Seifi Ghasemi,17031957,61035,279,Materials,Industrial Gases,yes
+Akamai Technologies Inc,Tom Leighton,10937601,117276,93,Information Technology,Internet Services & Infrastructure,yes
+Alaska Air Group Inc,Bradley D. Tilden,5533320,64528,86,Industrials,Airlines,yes
+Albemarle Corp,Luther C. Kissam IV,8521584,77782,110,Materials,Specialty Chemicals,yes
+Alexandria Real Estate Equities,na,-1,-1,-1,Real Estate,Office REITs,no
+Alexion Pharmaceuticals,Ludwig Hantson,18947984,237151,80,Health Care,Biotechnology,yes
+Align Technology,Joseph M. Hogan,18269139,13756,1328,Health Care,Health Care Supplies,yes
+Allegion,D. D. Petratis,7586780,45460,167,Industrials,Building Products,yes
+Alliant Energy Corp,John O. Larsen,7765384,138044,56,Utilities,Electric Utilities,yes
+Allstate Corp,Thomas J. Wilson,19615696,61860,317,Financials,Property & Casualty Insurance,yes
+Alphabet Inc.,Sundar Pichai,280621552,258708,1085,Communication Services,Interactive Media & Services,yes
+Altria Group Inc,Howard A. Willard III,15439987,142246,109,Consumer Staples,Tobacco,yes
+Amazon.com Inc.,Jeffrey P. Bezos,1681840,28848,58,Consumer Discretionary,Internet & Direct Marketing Retail,yes
+Amcor plc,Ronald Delia,15166633,38148,398,Materials,Paper Packaging,yes
+Ameren Corp,Warner L. Baxter,9718998,147127,66,Utilities,Multi-Utilities,yes
+American Airlines Group,Doug Parker,11571714,61143,189,Industrials,Airlines,yes
+American Electric Power,Nicholas K. Akins,14492436,132611,109,Utilities,Electric Utilities,yes
+American Express Co,S. J. Squeri,23796002,64803,367,Financials,Consumer Finance,yes
+American International Group,Brian Duperreault,19369637,67403,287,Financials,Property & Casualty Insurance,yes
+American Tower Corp.,James D. Taiclet,18095288,62745,288,Real Estate,Specialized REITs,yes
+American Water Works Company Inc,Susan N. Story,4983114,83599,60,Utilities,Water Utilities,yes
+Ameriprise Financial,James M. Cracchiolo,106428,14242,7,Financials,Asset Management & Custody Banks,yes
+AmerisourceBergen Corp,Steven H. Collis,11323960,54472,208,Health Care,Health Care Distributors,yes
+AMETEK Inc.,David A. Zapico,10176064,86304,118,Industrials,Electrical Components & Equipment,yes
+Amgen Inc.,Robert A. Bradway,18555266,131375,141,Health Care,Biotechnology,yes
+Amphenol Corp,R. A. Norwitt,10110360,13197,766,Information Technology,Electronic Components,yes
+"Analog Devices, Inc.",Vincent Roche,11948434,62277,192,Information Technology,Semiconductors,yes
+ANSYS,Ajei S. Gopal,19591414,100100,196,Information Technology,Application Software,yes
+Anthem,Gail K. Boudreaux,15473139,62686,247,Health Care,Managed Health Care,yes
+Aon plc,Gregory C. Case,16181591,69784,232,Financials,Insurance Brokers,yes
+A.O. Smith Corp,Kevin J. Wheeler,3808438,21337,178,Industrials,Building Products,yes
+Apache Corporation,John J. Christmann IV,14287300,157761,91,Energy,Oil & Gas Exploration & Production,yes
+APARTMENT INVST & MGMT CO,Terry Considine,7305455,77292,95,Real Estate,Residential REITs,yes
+Apple Inc.,Tim Cook,11555466,57596,201,Information Technology,"Technology Hardware, Storage & Peripherals",yes
+Applied Materials Inc.,Gary E. Dickerson,14072395,104500,135,Information Technology,Semiconductor Equipment,yes
+Aptiv PLC,Kevin P. Clark,15164533,7302,2077,Consumer Discretionary,Auto Parts & Equipment,yes
+Archer-Daniels-Midland Co,J. R. Luciano,18174409,63981,284,Consumer Staples,Agricultural Products,yes
+Arista Networks,Jayshree Ullal,1384171,151647,9,Information Technology,Communications Equipment,yes
+Arthur J. Gallagher & Co.,Pat Gallagher,8960616,56067,160,Financials,Insurance Brokers,yes
+Assurant,Alan B. Colberg,10155682,43368,234,Financials,Multi-line Insurance,yes
+AT&T Inc.,R. Stephenson,32032925,98630,325,Communication Services,Integrated Telecommunication Services,yes
+Atmos Energy,Michael E. Haefner,10395993,84516,123,Utilities,Gas Utilities,yes
+Autodesk Inc.,Andrew Anagnost,11569657,114999,101,Information Technology,Application Software,yes
+Automatic Data Processing,Carlos A. Rodriguez,19000187,63225,301,Information Technology,Internet Services & Infrastructure,yes
+AutoZone Inc,William C. Rhodes III,8617562,27581,312,Consumer Discretionary,Specialty Stores,yes
+AvalonBay Communities,Timothy Naughton,10921362,70917,154,Real Estate,Residential REITs,yes
+Avery Dennison Corp,Mitchell R. Butier,8495032,12278,692,Materials,Paper Packaging,yes
+Baker Hughes Co,Lorenzo Simonelli,14922621,79242,188,Energy,Oil & Gas Equipment & Services,yes
+Ball Corp,John A. Hayes,11855919,93903,126,Materials,Metal & Glass Containers,yes
+Bank of America Corp,Brian T. Moynihan,26049804,94256,276,Financials,Diversified Banks,yes
+The Bank of New York Mellon,"THOMAS P. ""Todd"" GIBBONS",13437888,63202,213,Financials,Asset Management & Custody Banks,yes
+Baxter International Inc.,JosÃ© E. Almeida,13913821,43131,323,Health Care,Health Care Equipment,yes
+Becton Dickinson,Vincent A. Forlenza,16014633,42219,379,Health Care,Health Care Equipment,yes
+Berkshire Hathaway,Warren E. Buffett,374773,65740,6,Financials,Multi-Sector Holdings,yes
+Best Buy Co. Inc.,Hubert Joly,17382486,28500,610,Consumer Discretionary,Computer & Electronics Retail,yes
+Bio-Rad Laboratories,Norman Schwartz,7639414,66072,116,Health Care,Life Sciences Tools & Services,yes
+Biogen Inc.,Michel Vounatsos,16168646,170521,95,Health Care,Biotechnology,yes
+BlackRock,Laurence D. Fink,26543344,136313,195,Financials,Asset Management & Custody Banks,yes
+Boeing Company,na,-1,-1,-1,Industrials,Aerospace & Defense,no
+Booking Holdings Inc,Glenn D. Fogel,20459184,50937,402,Consumer Discretionary,Internet & Direct Marketing Retail,yes
+BorgWarner,FrÃ©dÃ©ric B. Lissalde,13947029,44389,314,Consumer Discretionary,Auto Parts & Equipment,yes
+Boston Properties,Owen D. Thomas,11917600,115266,103,Real Estate,Office REITs,yes
+Boston Scientific,Michael F. Mahoney,15764140,65630,240,Health Care,Health Care Equipment,yes
+Bristol-Myers Squibb,Giovanni Caforio M.D.,19379755,112174,173,Health Care,Health Care Distributors,yes
+Broadcom Inc.,Hock E. Tan,26947598,168268,160,Information Technology,Semiconductors,yes
+Broadridge Financial Solutions,Timothy C. Gokey,9164315,71994,127,Information Technology,Data Processing & Outsourced Services,yes
+Brown-Forman Corp.,Lawson E. Whiting,6196407,58120,107,Consumer Staples,Distillers & Vintners,yes
+C. H. Robinson Worldwide,John P. Wiehoff,8558856,63270,135,Industrials,Air Freight & Logistics,yes
+Cabot Oil & Gas,Dan O. Dinges,13830926,74070,187,Energy,Oil & Gas Exploration & Production,yes
+Cadence Design Systems,Lip-Bu Tan,19146556,100773,190,Information Technology,Application Software,yes
+Campbell Soup,Mark A. Clouse,8491078,60357,141,Consumer Staples,Packaged Foods & Meats,yes
+Capital One Financial,Richard D. Fairbank,7705792,68780,112,Financials,Consumer Finance,yes
+Cardinal Health Inc.,Michael C. Kaufmann,15584454,57261,272,Health Care,Health Care Distributors,yes
+Carmax Inc,William D. Nash,9400666,42691,220,Consumer Discretionary,Specialty Stores,yes
+Carnival Corp.,Arnold W. Donald,11149514,15429,723,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",yes
+Carrier Global,na,-1,-1,-1,Industrials,Building Products,no
+Catalent,John Chiminski,9166195,54921,167,Health Care,Pharmaceuticals,yes
+Caterpillar Inc.,D. James Umpleby III,34519129,65132,530,Industrials,Construction Machinery & Heavy Trucks,yes
+Cboe Global Markets,Edward T. Tilly,8212785,166086,49,Financials,Financial Exchanges & Data,yes
+CBRE Group,Robert E. Sulentic,10347557,65849,157,Real Estate,Real Estate Services,yes
+CDW,Christine A. Leahy,6191797,93452,66,Information Technology,Technology Distributors,yes
+Celanese,Lori J. Ryerkerk,8001982,82366,97,Materials,Specialty Chemicals,yes
+Centene Corporation,Michael F. Neidorff,26448425,68987,383,Health Care,Managed Health Care,yes
+CenterPoint Energy,Scott M. Prochazka,7724121,102957,75,Utilities,Multi-Utilities,yes
+Cerner,Brent Shafer,9798716,64784,151,Health Care,Health Care Technology,yes
+CF Industries Holdings Inc,W. Anthony Will,7758005,107901,72,Materials,Fertilizers & Agricultural Chemicals,yes
+Charles Schwab Corporation,Walter W. Bettinger II,15627607,104281,150,Financials,Investment Banking & Brokerage,yes
+Charter Communications,Thomas M. Rutledge,8743601,57625,152,Communication Services,Cable & Satellite,yes
+Chevron Corp.,M. K. Wirth,33070662,140063,236,Energy,Integrated Oil & Gas,yes
+Chipotle Mexican Grill,BRIAN NICCOL,336000000,13779,24385,Consumer Discretionary,Restaurants,yes
+Chubb Limited,Evan G. Greenberg,20357484,64340,316,Financials,Property & Casualty Insurance,yes
+Church & Dwight,Matthew T. Farrell,8985122,65894,136,Consumer Staples,Household Products,yes
+CIGNA Corp.,David M. Cordani,19303032,62946,307,Health Care,Managed Health Care,yes
+Cincinnati Financial,Steven J. Johnston,5528654,96112,58,Financials,Property & Casualty Insurance,yes
+Cintas Corporation,Scott D. Farmer,6698520,55712,120,Industrials,Diversified Support Services,yes
+Cisco Systems,Charles H. Robbins,25829833,142593,181,Information Technology,Communications Equipment,yes
+Citigroup Inc.,Michael Corbat,25521414,52988,482,Financials,Diversified Banks,yes
+Citizens Financial Group,Bruce Van Saun,9898442,66497,149,Financials,Regional Banks,yes
+Citrix Systems,David J. Henshall,19253101,170433,113,Information Technology,Application Software,yes
+The Clorox Company,Benno Dorer,12423899,75157,165,Consumer Staples,Household Products,yes
+CME Group Inc.,Terrence A. Duffy,11867214,145478,82,Financials,Financial Exchanges & Data,yes
+CMS Energy,Patricia K. Poppe,8986702,122783,73,Utilities,Multi-Utilities,yes
+Coca-Cola Company,James Quincey,18701149,11285,1657,Consumer Staples,Soft Drinks,yes
+Cognizant Technology Solutions,Brian Humphries,16503792,32084,514,Information Technology,IT Consulting & Other Services,yes
+Colgate-Palmolive,Ian M. Cook,11551328,24513,471,Consumer Staples,Household Products,yes
+Comcast Corp.,Brian L. Roberts,35041029,82205,426,Communication Services,Cable & Satellite,yes
+Comerica Inc.,Curtis C. Farmer,14632651,85981,170,Financials,Diversified Banks,yes
+Conagra Brands,Sean Connolly,14392748,45590,316,Consumer Staples,Packaged Foods & Meats,yes
+Concho Resources,Timothy A. Leach,12980443,157850,82,Energy,Oil & Gas Exploration & Production,yes
+ConocoPhillips,R. M. Lance,30381543,186334,163,Energy,Oil & Gas Exploration & Production,yes
+Consolidated Edison,John McAvoy,15345285,215556,71,Utilities,Electric Utilities,yes
+Constellation Brands,Robert Sands,10312778,53851,192,Consumer Staples,Distillers & Vintners,yes
+The Cooper Companies,Albert G. White III,7724746,39775,194,Health Care,Health Care Supplies,yes
+Copart Inc,A. Jayson Adair,156315,35360,4,Industrials,Diversified Support Services,yes
+Corning Inc.,Wendell P. Weeks,14283654,49121,291,Information Technology,Electronic Components,yes
+Corteva,James C. Collins Jr.,11357053,80757,141,Materials,Fertilizers & Agricultural Chemicals,yes
+Costco Wholesale Corp.,W. Craig Jelinek,8016200,47312,169,Consumer Staples,Hypermarkets & Super Centers,yes
+Crown Castle International Corp.,Jay A. Brown,9025526,111866,81,Real Estate,Specialized REITs,yes
+CSX Corp.,James M. Foote,15537181,107632,144,Industrials,Railroads,yes
+Cummins Inc.,N. T. Linebarger,25116751,73480,342,Industrials,Industrial Machinery,yes
+CVS Health,Larry J. Merlo,21953040,35529,618,Health Care,Health Care Services,yes
+D. R. Horton,David V. Auld,14377638,86531,166,Consumer Discretionary,Homebuilding,yes
+Danaher Corp.,Thomas P. Joyce Jr.,18193200,74672,244,Health Care,Health Care Equipment,yes
+Darden Restaurants,Eugene I. Lee Jr.,10710578,18175,589,Consumer Discretionary,Restaurants,yes
+DaVita Inc.,Kent J. Thiry,32031175,60889,526,Health Care,Health Care Facilities,yes
+Deere & Co.,Samuel R. Allen,21697885,80267,270,Industrials,Agricultural & Farm Machinery,yes
+Delta Air Lines Inc.,Edward H. Bastian,17325379,118198,147,Industrials,Airlines,yes
+Dentsply Sirona,Donald M. Casey Jr.,11366243,50861,223,Health Care,Health Care Supplies,yes
+Devon Energy,David A. Hager,12500000,158000,79,Energy,Oil & Gas Exploration & Production,yes
+DexCom,Kevin Sayer,10279373,94523,109,Health Care,Health Care Equipment,yes
+Diamondback Energy,Travis D. Stice,16049655,137832,116,Energy,Oil & Gas Exploration & Production,yes
+Digital Realty Trust Inc,A. William Stein,12337700,157230,78,Real Estate,Specialized REITs,yes
+Discover Financial Services,Roger C. Hochschild,9250436,47096,196,Financials,Consumer Finance,yes
+"Discovery, Inc.",David M. Zaslav,45843912,79343,578,Communication Services,Broadcasting,yes
+Dish Network,W. Erik Carlson,1007020,54685,18,Communication Services,Cable & Satellite,yes
+Dollar General,Todd J. Vasos,12008059,14571,824,Consumer Discretionary,General Merchandise Stores,yes
+Dollar Tree,Gary Philbin,10604621,15375,690,Consumer Discretionary,General Merchandise Stores,yes
+Dominion Energy,Thomas F. Farrell II,17257035,145136,119,Utilities,Electric Utilities,yes
+Domino's Pizza,Richard E. Allison Jr.,5495804,17919,307,Consumer Discretionary,Restaurants,yes
+Dover Corporation,Richard J. Tobin,9149075,45141,203,Industrials,Industrial Machinery,yes
+Dow Inc.,Jim Fitterling,15878639,109556,145,Materials,Commodity Chemicals,yes
+DTE Energy Co.,Gerardo Norcia,8776433,119157,74,Utilities,Multi-Utilities,yes
+Duke Energy,Lynn J. Good,15029386,123608,122,Utilities,Electric Utilities,yes
+Duke Realty Corp,James B. Connor,6693904,122714,55,Real Estate,Industrial REITs,yes
+DuPont de Nemours Inc,Edward D. Breen,18675301,75018,249,Materials,Specialty Chemicals,yes
+DXC Technology,Michael J. Salvino,18973666,41602,456,Information Technology,IT Consulting & Other Services,yes
+Eastman Chemical,Mark J. Costa,14556133,81638,178,Materials,Diversified Chemicals,yes
+Eaton Corporation,C. Arnold,19980672,57712,346,Industrials,Electrical Components & Equipment,yes
+eBay Inc.,na,-1,-1,-1,Consumer Discretionary,Internet & Direct Marketing Retail,no
+Ecolab Inc.,Douglas M. Baker Jr.,19803193,54234,365,Materials,Specialty Chemicals,yes
+Edison Int'l,Pedro J. Pizarro,11806662,190935,62,Utilities,Electric Utilities,yes
+Edwards Lifesciences,Michael A. Mussallem,11520973,64517,179,Health Care,Health Care Equipment,yes
+Electronic Arts,ANDREW WILSON,21365751,97986,218,Communication Services,Interactive Home Entertainment,yes
+Emerson Electric Company,D. N. Farr,20310575,47415,428,Industrials,Electrical Components & Equipment,yes
+Entergy Corp.,Leo P. Denault,14264249,129663,110,Utilities,Electric Utilities,yes
+EOG Resources,William R. Thomas,12751421,175681,73,Energy,Oil & Gas Exploration & Production,yes
+Equifax Inc.,Mark W. Begor,14281552,72230,198,Industrials,Research & Consulting Services,yes
+Equinix,Charles Meyers,12573795,97035,130,Real Estate,Specialized REITs,yes
+Equity Residential,David J. Neithercut,11004730,57841,190,Real Estate,Residential REITs,yes
+"Essex Property Trust, Inc.",Michael J. Schall,6419864,74338,86,Real Estate,Residential REITs,yes
+EstÃ©e Lauder Companies,Fabrizio Freda,18423928,28879,638,Consumer Staples,Personal Products,yes
+Etsy,Josh Silverman,1044083,173680,6,Consumer Discretionary,Internet & Direct Marketing Retail,yes
+Evergy,Terry Bassham,5793975,153717,38,Utilities,Electric Utilities,yes
+Eversource Energy,James J. Judge,19806088,133899,148,Utilities,Multi-Utilities,yes
+Everest Re Group Ltd.,Dominic J. Addesso,7626619,144915,53,Financials,Reinsurance,yes
+Exelon Corp.,Christopher M. Crane,15400000,126000,122,Utilities,Multi-Utilities,yes
+Expedia Group,na,-1,-1,-1,Consumer Discretionary,Internet & Direct Marketing Retail,no
+Expeditors,Jeffrey S. Musser,6424455,45108,142,Industrials,Air Freight & Logistics,yes
+Extra Space Storage,Joseph D. Margolis,6284975,38658,163,Real Estate,Specialized REITs,yes
+Exxon Mobil Corp.,D. W. Woods,23529292,173712,135,Energy,Integrated Oil & Gas,yes
+F5 Networks,FranÃ§ois Locoh-Donou,9473457,176749,54,Information Technology,Communications Equipment,yes
+"Facebook, Inc.",Mark Zuckerberg,23415973,247883,94,Communication Services,Interactive Media & Services,yes
+Fastenal Co,Daniel L. Florness,1759943,45842,38,Industrials,Building Products,yes
+Federal Realty Investment Trust,Donald C. Wood,7630858,111105,69,Real Estate,Retail REITs,yes
+FedEx Corporation,Frederick W. Smith,15973884,52718,303,Industrials,Air Freight & Logistics,yes
+Fidelity National Information Services,Gary A. Norcross,18442389,46929,393,Information Technology,Data Processing & Outsourced Services,yes
+Fifth Third Bancorp,Greg D. Carmichael,8999237,68103,132,Financials,Regional Banks,yes
+FirstEnergy Corp,Charles E. Jones Jr.,14684659,149550,98,Utilities,Electric Utilities,yes
+First Republic Bank,na,-1,-1,-1,Financials,Regional Banks,no
+Fiserv Inc,Jeffery W. Yabuki,27633556,65254,423,Information Technology,Data Processing & Outsourced Services,yes
+FleetCor Technologies Inc,Ronald F. Clarke,7757388,33330,233,Information Technology,Data Processing & Outsourced Services,yes
+FLIR Systems,James J. Cannon,5492416,76714,72,Information Technology,Electronic Equipment & Instruments,yes
+Flowserve Corporation,R. Scott Rowe,8702469,81830,106,Industrials,Industrial Machinery,yes
+FMC Corporation,Pierre Brondeau,11536552,51332,225,Materials,Fertilizers & Agricultural Chemicals,yes
+Ford Motor Company,James P. Hackett,17752835,64316,276,Consumer Discretionary,Automobile Manufacturers,yes
+Fortinet,Ken Xie,6761686,131767,51,Information Technology,Systems Software,yes
+Fortive Corp,James A. Lico,13720993,56718,242,Industrials,Industrial Machinery,yes
+Fortune Brands Home & Security,Christopher J. Klein,10693887,57125,187,Industrials,Building Products,yes
+Fox Corporation,Lachlan K. Murdoch,29154460,81307,359,Communication Services,Movies & Entertainment,yes
+Franklin Resources,Gregory E. Johnson,10431335,63941,163,Financials,Asset Management & Custody Banks,yes
+Freeport-McMoRan Inc.,Richard C. Adkerson,15742249,75874,207,Materials,Copper,yes
+Gap Inc.,na,-1,-1,-1,Consumer Discretionary,Apparel Retail,no
+Garmin Ltd.,Clifton A. Pemble,3233412,35188,92,Consumer Discretionary,Consumer Electronics,yes
+Gartner Inc,Eugene A. Hall,11502517,107147,107,Information Technology,IT Consulting & Other Services,yes
+General Dynamics,Phebe N. Novakovic,18313204,116510,157,Industrials,Aerospace & Defense,yes
+General Electric,Larry Culp,24553788,50471,486,Industrials,Industrial Conglomerates,yes
+General Mills,Jeffrey L. Harmening,9855417,57177,172,Consumer Staples,Packaged Foods & Meats,yes
+General Motors,Mary T. Barra,21630867,106715,203,Consumer Discretionary,Automobile Manufacturers,yes
+Genuine Parts,Paul D. Donahue,8169948,39321,208,Consumer Discretionary,Specialty Stores,yes
+Gilead Sciences,John F. Milligan,25961831,163963,158,Health Care,Biotechnology,yes
+Globe Life Inc.,na,-1,-1,-1,Financials,Life & Health Insurance,no
+Global Payments Inc.,Jeffrey S. Sloan,20502096,56040,366,Information Technology,Data Processing & Outsourced Services,yes
+Goldman Sachs Group,David M. Solomon,24657737,138854,178,Financials,Investment Banking & Brokerage,yes
+Grainger (W.W.) Inc.,D. G. Macpherson,7665127,66072,116,Industrials,Industrial Machinery,yes
+Halliburton Co.,Jeffrey A. Miller,12770467,87289,146,Energy,Oil & Gas Equipment & Services,yes
+Hanesbrands Inc,Gerald W. Evans Jr.,3956325,7076,559,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",yes
+Hartford Financial Svc.Gp.,Christopher Swift,14560748,96867,150,Financials,Property & Casualty Insurance,yes
+Hasbro Inc.,Brian Goldner,8499623,66893,127,Consumer Discretionary,Leisure Products,yes
+HCA Healthcare,Samuel N. Hazen,26788251,56012,478,Health Care,Health Care Facilities,yes
+Healthpeak Properties,Thomas M. Herzog,9907966,145000,68,Real Estate,Health Care REITs,yes
+Henry Schein,Stanley M. Bergman,14438094,71272,203,Health Care,Health Care Distributors,yes
+The Hershey Company,Michele G. Buck,16787188,38099,441,Consumer Staples,Packaged Foods & Meats,yes
+Hess Corporation,John B. Hess,12572440,178908,70,Energy,Integrated Oil & Gas,yes
+Hewlett Packard Enterprise,Antonio F. Neri,13714497,67196,204,Information Technology,"Technology Hardware, Storage & Peripherals",yes
+Hilton Worldwide Holdings Inc,Christopher J. Nassetta,21387511,43695,489,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",yes
+HollyFrontier Corp,George J. Damiris,5169280,129232,40,Energy,Oil & Gas Refining & Marketing,yes
+Hologic,Stephen P. MacMillan,12374753,91403,135,Health Care,Health Care Equipment,yes
+Home Depot,Craig A. Menear,10889833,22652,481,Consumer Discretionary,Home Improvement Retail,yes
+Honeywell Int'l Inc.,Darius Adamczyk,20525104,69513,295,Industrials,Industrial Conglomerates,yes
+Hormel Foods Corp.,James P. Snee,8324267,45086,185,Consumer Staples,Packaged Foods & Meats,yes
+Host Hotels & Resorts,James F. Risoleo,9434465,197781,48,Real Estate,Hotel & Resort REITs,yes
+Howmet Aerospace,John C. Plant,51837578,55497,934,Industrials,Aerospace & Defense,yes
+HP Inc.,Dion J. Weisler,19215534,79719,241,Information Technology,"Technology Hardware, Storage & Peripherals",yes
+Humana Inc.,Bruce D. Broussard,16726455,73669,227,Health Care,Managed Health Care,yes
+Huntington Bancshares,Stephen D. Steinour,7488685,61717,121,Financials,Regional Banks,yes
+Huntington Ingalls Industries,C. Michael Petters,8641992,73108,118,Industrials,Aerospace & Defense,yes
+IDEX Corporation,Andrew K. Silvernail,9119596,66703,137,Industrials,Industrial Machinery,yes
+IDEXX Laboratories,Jonathan J. Mazelsky,7637774,55106,139,Health Care,Health Care Equipment,yes
+IHS Markit Ltd.,Lance Uggla,13070056,90999,144,Industrials,Research & Consulting Services,yes
+Illinois Tool Works,E. Scott Santi,17723369,49632,357,Industrials,Industrial Machinery,yes
+Illumina Inc,Francis A. deSouza,1521949,104555,15,Health Care,Life Sciences Tools & Services,yes
+Incyte,HervÃ© Hoppenot,9314189,228006,41,Health Care,Biotechnology,yes
+Ingersoll Rand,M. W. Lamach,24217128,54757,442,Industrials,Industrial Machinery,yes
+Intel Corp.,Robert H. Swan,66935100,96300,695,Information Technology,Semiconductors,yes
+Intercontinental Exchange,Jeffrey C. Sprecher,14513403,138412,105,Financials,Financial Exchanges & Data,yes
+International Business Machines,V. M. Rometty,20160865,56896,354,Information Technology,IT Consulting & Other Services,yes
+International Paper,Mark S. Sutton,21911137,61508,356,Materials,Paper Packaging,yes
+Interpublic Group,Michael I. Roth,16590172,71835,231,Communication Services,Advertising,yes
+International Flavors & Fragrances,Andreas Fibig,7629084,38981,196,Materials,Specialty Chemicals,yes
+Intuit Inc.,Sasan K. Goodarzi,17933345,157232,114,Information Technology,Application Software,yes
+Intuitive Surgical Inc.,Gary S. Guthart Ph.D.,6470374,157267,41,Health Care,Health Care Equipment,yes
+Invesco Ltd.,Martin L. Flanagan,11518949,125282,92,Financials,Asset Management & Custody Banks,yes
+IPG Photonics Corp.,Valentin P. Gapontsev,1251984,31205,40,Information Technology,Electronic Manufacturing Services,yes
+IQVIA Holdings Inc.,na,-1,-1,-1,Health Care,Life Sciences Tools & Services,no
+Iron Mountain Incorporated,William L. Meaney,10888949,39267,277,Real Estate,Specialized REITs,yes
+Jack Henry & Associates,David B. Foss,11015251,74508,148,Information Technology,Data Processing & Outsourced Services,yes
+Jacobs Engineering Group,Steven J. Demetriou,14627254,79733,183,Industrials,Construction & Engineering,yes
+J. B. Hunt Transport Services,John N. Roberts III,6588249,65663,100,Industrials,Trucking,yes
+JM Smucker,Mark T. Smucker,10728961,79071,136,Consumer Staples,Packaged Foods & Meats,yes
+Johnson & Johnson,Alex Gorsky,25380258,76000,334,Health Care,Pharmaceuticals,yes
+Johnson Controls International,George R. Oliver,15476638,41987,369,Industrials,Building Products,yes
+JPMorgan Chase & Co.,James Dimon,30040153,78923,381,Financials,Diversified Banks,yes
+Juniper Networks,Rami Rahim,11129890,129616,86,Information Technology,Communications Equipment,yes
+Kansas City Southern,Patrick J. Ottensmeyer,5523327,48187,115,Industrials,Railroads,yes
+Kellogg Co.,Steve Cahillane,9694223,38895,249,Consumer Staples,Packaged Foods & Meats,yes
+KeyCorp,Beth E. Mooney,9663988,63748,152,Financials,Regional Banks,yes
+Keysight Technologies,Ronald S. Nersesian,11124216,84714,131,Information Technology,Electronic Equipment & Instruments,yes
+Kimberly-Clark,Michael D. Hsu,12028120,47328,254,Consumer Staples,Household Products,yes
+Kimco Realty,Conor C. Flynn,6948567,102500,68,Real Estate,Retail REITs,yes
+Kinder Morgan,Steven J. Kean,7270,111546,0,Energy,Oil & Gas Storage & Transportation,yes
+KLA Corporation,Richard Wallace,13324375,85924,155,Information Technology,Semiconductor Equipment,yes
+Kraft Heinz Co,Bernardo Hees,29047768,47612,610,Consumer Staples,Packaged Foods & Meats,yes
+Kroger Co.,W. Rodney McMullen,12037872,24912,483,Consumer Staples,Food Retail,yes
+L Brands Inc.,Leslie H. Wexner,3783221,13490,280,Consumer Discretionary,Apparel Retail,yes
+L3Harris Technologies,William M. Brown,15745630,58426,269,Industrials,Aerospace & Defense,yes
+Laboratory Corp. of America Holding,Adam H. Schechter,13138362,41834,314,Health Care,Health Care Services,yes
+Lam Research,Timothy M. Archer,11753004,104541,112,Information Technology,Semiconductor Equipment,yes
+Lamb Weston Holdings Inc,Thomas P. Werner,6837282,55629,123,Consumer Staples,Packaged Foods & Meats,yes
+Las Vegas Sands,Sheldon G. Adelson,24680118,42228,584,Consumer Discretionary,Casinos & Gaming,yes
+Leggett & Platt,Karl G. Glassman,10204342,36441,280,Consumer Discretionary,Home Furnishings,yes
+Leidos Holdings,Roger A. Krone,10671271,103657,103,Information Technology,IT Consulting & Other Services,yes
+Lennar Corp.,Rick Beckwitt,18279581,102830,178,Consumer Discretionary,Homebuilding,yes
+Lilly (Eli) & Co.,David A. Ricks,21283242,96290,221,Health Care,Pharmaceuticals,yes
+Lincoln National,DENNIS R. GLASS,14422495,70828,204,Financials,Multi-line Insurance,yes
+Linde plc,Stephen F. Angel,66149326,40601,1629,Materials,Industrial Gases,yes
+Live Nation Entertainment,Michael Rapino,14563122,18333,794,Communication Services,Movies & Entertainment,yes
+LKQ Corporation,Dominick Zarcone,6429072,29945,215,Consumer Discretionary,Distributors,yes
+Lockheed Martin Corp.,Marillyn A. Hewson,30900000,154883,200,Industrials,Aerospace & Defense,yes
+Loews Corp.,James S. Tisch,9312872,72145,129,Financials,Multi-line Insurance,yes
+Lowe's Cos.,Marvin R. Ellison,11621369,22748,511,Consumer Discretionary,Home Improvement Retail,yes
+Lumen Technologies,na,-1,-1,-1,Communication Services,Alternative Carriers,no
+LyondellBasell,Bob Patel,18206796,114759,159,Materials,Specialty Chemicals,yes
+M&T Bank Corp.,René F. Jones,5704703,66768,85,Financials,Regional Banks,yes
+Marathon Oil Corp.,Lee M. Tillman,12210874,116041,105,Energy,Oil & Gas Exploration & Production,yes
+Marathon Petroleum,Gary R. Heminger,24129164,210248,115,Energy,Oil & Gas Refining & Marketing,yes
+MarketAxess,Richard M. McVey,3844232,140455,27,Financials,Financial Exchanges & Data,yes
+Marriott Int'l.,Arne M. Sorenson,13435887,38878,346,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",yes
+Marsh & McLennan,Daniel S. Glaser,17281919,64238,269,Financials,Insurance Brokers,yes
+Martin Marietta Materials,C. Howard Nye,8533458,71335,120,Materials,Construction Materials,yes
+Masco Corp.,Keith J. Allman,8659363,40070,216,Industrials,Building Products,yes
+Mastercard Inc.,Ajay Banga,23249977,138142,168,Information Technology,Data Processing & Outsourced Services,yes
+McCormick & Co.,Lawrence E. Kurzius,12769184,31603,404,Consumer Staples,Packaged Foods & Meats,yes
+Maxim Integrated Products Inc,Tunc Doluca,9143785,32372,282,Information Technology,Semiconductors,yes
+McDonald's Corp.,Christopher Kempczinski,18012549,9291,1939,Consumer Discretionary,Restaurants,yes
+McKesson Corp.,Brian S. Tyler,15435470,40601,380,Health Care,Health Care Distributors,yes
+Medtronic plc,Omar Ishrak,14822740,62286,238,Health Care,Health Care Equipment,yes
+Merck & Co.,Kenneth C. Frazier,27648475,95621,289,Health Care,Pharmaceuticals,yes
+MetLife Inc.,Steven A. Kandarian,17439109,73464,237,Financials,Life & Health Insurance,yes
+Mettler Toledo,Olivier A. Filliol,8755320,39445,222,Health Care,Life Sciences Tools & Services,yes
+MGM Resorts International,James J. Murren,12849021,36192,355,Consumer Discretionary,Casinos & Gaming,yes
+Microchip Technology,Steve Sanghi,6883381,43782,157,Information Technology,Semiconductors,yes
+Micron Technology,Sanjay Mehrotra,16944751,60796,279,Information Technology,Semiconductors,yes
+Microsoft Corp.,Satya Nadella,42910215,172512,249,Information Technology,Systems Software,yes
+Mid-America Apartments,H. Eric Bolton Jr.,5735898,46088,124,Real Estate,Residential REITs,yes
+Mohawk Industries,Jeffrey S. Lorberbaum,4631485,41747,111,Consumer Discretionary,Home Furnishings,yes
+Molson Coors Beverage Company,Mark R. Hunter,8341482,73135,114,Consumer Staples,Brewers,yes
+Mondelez International,Dirk Van de Put,18115449,32280,561,Consumer Staples,Packaged Foods & Meats,yes
+Monster Beverage,Rodney C. Sacks,13914931,55370,251,Consumer Staples,Soft Drinks,yes
+Moody's Corp,Raymond W. McDaniel,13751632,87393,157,Financials,Financial Exchanges & Data,yes
+Morgan Stanley,James P. Gorman,31642395,127414,248,Financials,Investment Banking & Brokerage,yes
+The Mosaic Company,"James (""Joc"") C. O'Rourke",9767104,37234,262,Materials,Fertilizers & Agricultural Chemicals,yes
+Motorola Solutions Inc.,Gregory Q. Brown,23619990,93750,252,Information Technology,Communications Equipment,yes
+MSCI Inc,Henry A. Fernandez,9255960,55857,166,Financials,Financial Exchanges & Data,yes
+Mylan N.V.,Heather Bresch,13346299,42407,315,Health Care,Pharmaceuticals,yes
+"Nasdaq, Inc.",Adena T. Friedman,13869051,120822,115,Financials,Financial Exchanges & Data,yes
+National Oilwell Varco Inc.,Clay C. Williams,9253961,51374,180,Energy,Oil & Gas Equipment & Services,yes
+NetApp,George Kurian,13164969,198620,66,Information Technology,"Technology Hardware, Storage & Peripherals",yes
+Netflix Inc.,Reed Hastings,38577129,202931,190,Communication Services,Movies & Entertainment,yes
+Newell Brands,Ravichandra K. Saligram,8624805,31704,272,Consumer Discretionary,Housewares & Specialties,yes
+Newmont Corporation,Thomas Palmer,9098908,83522,109,Materials,Gold,yes
+News Corp.,na,-1,-1,-1,Communication Services,Publishing,no
+NextEra Energy,James L. Robo,21877597,129735,169,Utilities,Multi-Utilities,yes
+Nielsen Holdings,David Kenny,12936400,32646,396,Industrials,Research & Consulting Services,yes
+"Nike, Inc.",John J. Donahoe II,54451903,28142,1935,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",yes
+NiSource Inc.,Joseph Hamrock,5778515,97754,59,Utilities,Multi-Utilities,yes
+Norfolk Southern Corp.,James A. Squires,14290805,98477,145,Industrials,Railroads,yes
+Northern Trust Corp.,Michael G. O'Grady,9459768,76636,123,Financials,Asset Management & Custody Banks,yes
+Northrop Grumman,Kathy J. Warden,20307994,114667,177,Industrials,Aerospace & Defense,yes
+NortonLifeLock,Vincent Pilette,20596491,92914,222,Information Technology,Application Software,yes
+Norwegian Cruise Line Holdings,Frank J. Del Rio,22593061,20101,1124,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",yes
+NRG Energy,Mauricio Gutierrez,9146053,114883,80,Utilities,Independent Power Producers & Energy Traders,yes
+Nucor Corp.,John J. Ferriola,19099582,87573,218,Materials,Steel,yes
+Nvidia Corporation,Jen-Hsun Huang,13642838,155035,88,Information Technology,Semiconductors,yes
+"NVR, Inc.",Paul C. Saville,3987000,78448,51,Consumer Discretionary,Homebuilding,yes
+O'Reilly Automotive,Greg D. Johnson,4866262,21373,228,Consumer Discretionary,Specialty Stores,yes
+Occidental Petroleum,Vicki A. Hollub,16017683,185259,86,Energy,Oil & Gas Exploration & Production,yes
+Old Dominion Freight Line,Greg C. Gantt,7344950,81583,90,Industrials,Trucking,yes
+Omnicom Group,John D. Wren,19818780,44059,450,Communication Services,Advertising,yes
+ONEOK,Terry K. Spencer,10945741,136080,80,Energy,Oil & Gas Storage & Transportation,yes
+Oracle Corp.,Safra A. Catz,964055,87402,11,Information Technology,Application Software,yes
+Otis Worldwide,na,-1,-1,-1,Industrials,Industrial Machinery,no
+PACCAR Inc.,na,-1,-1,-1,Industrials,Construction Machinery & Heavy Trucks,no
+Packaging Corporation of America,Mark W. Kowlzan,10338117,71268,145,Materials,Paper Packaging,yes
+Parker-Hannifin,Thomas L. Williams,17472500,57282,305,Industrials,Industrial Machinery,yes
+Paychex Inc.,Martin Mucci,8068717,59642,135,Information Technology,Data Processing & Outsourced Services,yes
+Paycom,Chad Richison,21138558,64408,328,Information Technology,Application Software,yes
+PayPal,Daniel H. Schulman,25825473,70405,367,Information Technology,Data Processing & Outsourced Services,yes
+Pentair plc,John L. Stauch,6413860,59187,108,Industrials,Industrial Machinery,yes
+People's United Financial,John P. Barnes,5700284,66596,86,Financials,Thrifts & Mortgage Finance,yes
+PepsiCo Inc.,Ramon Laguarta,16870817,45896,368,Consumer Staples,Soft Drinks,yes
+PerkinElmer,Prahlad R. Singh PhD,16481787,46161,357,Health Care,Health Care Equipment,yes
+Perrigo,Murray S. Kessler,10525298,82616,127,Health Care,Pharmaceuticals,yes
+Pfizer Inc.,A. Bourla,17928963,98972,181,Health Care,Pharmaceuticals,yes
+Philip Morris International,Andre Calantzopoulos,22125060,19134,1156,Consumer Staples,Tobacco,yes
+Phillips 66,Greg Garland,31927081,188738,169,Energy,Oil & Gas Refining & Marketing,yes
+Pinnacle West Capital,Donald E. Brandt,12145522,133779,91,Utilities,Multi-Utilities,yes
+Pioneer Natural Resources,na,-1,-1,-1,Energy,Oil & Gas Exploration & Production,no
+PNC Financial Services,William S. Demchak,16555752,76131,217,Financials,Regional Banks,yes
+Pool Corporation,Peter D. Arvan,3290220,50095,66,Consumer Discretionary,Distributors,yes
+PPG Industries,M. H. McGarry,15117938,40598,372,Materials,Specialty Chemicals,yes
+PPL Corp.,William H. Spence,14142567,147463,96,Utilities,Electric Utilities,yes
+Principal Financial Group,Daniel J. Houston,12244054,82872,148,Financials,Life & Health Insurance,yes
+Procter & Gamble,David S. Taylor,22905128,68883,333,Consumer Staples,Personal Products,yes
+Progressive Corp.,Susan Patricia Griffith,14041272,66285,212,Financials,Property & Casualty Insurance,yes
+Prologis,Hamid Moghadam,30383438,117751,258,Real Estate,Industrial REITs,yes
+Prudential Financial,Charles F. Lowrey,26634837,104092,256,Financials,Life & Health Insurance,yes
+Public Service Enterprise Group (PSEG),Ralph Izzo,13074227,142188,92,Utilities,Electric Utilities,yes
+Public Storage,Joseph D. Russell Jr.,4289200,26001,165,Real Estate,Specialized REITs,yes
+PulteGroup,Ryan R. Marshall,9216065,96842,95,Consumer Discretionary,Homebuilding,yes
+PVH Corp.,Emanuel Chirico,17065604,18089,943,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",yes
+Qorvo,Robert A. Bruggeworth,7394904,47290,156,Information Technology,Semiconductors,yes
+Quanta Services Inc.,Earl C. (Duke) Austin Jr.,8808204,87144,101,Industrials,Construction & Engineering,yes
+QUALCOMM Inc.,Steve Mollenkopf,23065052,90259,256,Information Technology,Semiconductors,yes
+Quest Diagnostics,Stephen H. Rusckowski,9966964,46749,213,Health Care,Health Care Services,yes
+Ralph Lauren Corporation,Patrice Louvet,12170470,21358,570,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",yes
+Raymond James Financial Inc.,Paul C. Reilly,13090394,94864,138,Financials,Investment Banking & Brokerage,yes
+Raytheon Technologies,Gregory Hayes,21538847,76417,282,Industrials,Aerospace & Defense,yes
+Realty Income Corporation,Sumit Roy,7538883,99644,76,Real Estate,Retail REITs,yes
+Regency Centers Corporation,Martin E. Stein Jr.,5619541,101379,55,Real Estate,Retail REITs,yes
+Regeneron Pharmaceuticals,Leonard S. Schleifer M.D. Ph.D.,26520555,134115,198,Health Care,Biotechnology,yes
+Regions Financial Corp.,John M. Turner Jr.,13128415,60621,217,Financials,Regional Banks,yes
+Republic Services Inc,Donald W. Slager,12617294,63899,197,Industrials,Environmental & Facilities Services,yes
+ResMed,Michael Farrell,9635100,60918,158,Health Care,Health Care Equipment,yes
+Robert Half International,M. Keith Waddell,7433592,19806,375,Industrials,Human Resource & Employment Services,yes
+Rockwell Automation Inc.,na,-1,-1,-1,Industrials,Electrical Components & Equipment,no
+Rollins Inc.,Gary W. Rollins,4780854,50134,95,Industrials,Environmental & Facilities Services,yes
+Roper Technologies,L. Neil Hunn,29054430,88707,328,Industrials,Industrial Conglomerates,yes
+Ross Stores,Barbara Rentler,12248994,10027,1222,Consumer Discretionary,Apparel Retail,yes
+Royal Caribbean Group,Richard D. Fain,14358919,17303,830,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",yes
+"S&P Global, Inc.",Douglas L. Peterson,12152512,27860,436,Financials,Financial Exchanges & Data,yes
+Salesforce.com,na,-1,-1,-1,Information Technology,Application Software,no
+SBA Communications,Jeffrey A. Stoops,10156251,92370,110,Real Estate,Specialized REITs,yes
+Schlumberger Ltd.,Olivier Le Peuch,22247160,71021,313,Energy,Oil & Gas Equipment & Services,yes
+Seagate Technology,William D. Mosley,11698767,9471,1235,Information Technology,"Technology Hardware, Storage & Peripherals",yes
+Sealed Air,Edward L. Doheny II,8989757,55804,161,Materials,Paper Packaging,yes
+Sempra Energy,Jeffrey W. Martin,19829297,145951,136,Utilities,Multi-Utilities,yes
+ServiceNow,William R. McDermott,21561715,223554,96,Information Technology,Systems Software,yes
+Sherwin-Williams,John G. Morikis,14854731,42590,349,Materials,Specialty Chemicals,yes
+Simon Property Group Inc,David Simon,10439378,62457,167,Real Estate,Retail REITs,yes
+Skyworks Solutions,Liam K. Griffin,13660593,21852,625,Information Technology,Semiconductors,yes
+SL Green Realty,Marc Holliday,20990016,71887,292,Real Estate,Office REITs,yes
+Snap-on,Nicholas T. Pinchuk,7560073,60721,125,Industrials,Industrial Machinery,yes
+Southern Company,Thomas A. Fanning,13097691,113035,116,Utilities,Electric Utilities,yes
+Southwest Airlines,Gary C. Kelly,7726455,78494,98,Industrials,Airlines,yes
+Stanley Black & Decker,James M. Loree,18707111,43316,432,Industrials,Industrial Machinery,yes
+Starbucks Corp.,Kevin R. Johnson,19241950,11489,1675,Consumer Discretionary,Restaurants,yes
+State Street Corp.,Joseph L. Hooley,16119826,68527,235,Financials,Asset Management & Custody Banks,yes
+STERIS plc,Walter M Rosebrough Jr.,6495539,61717,105,Health Care,Health Care Equipment,yes
+Stryker Corp.,Kevin A. Lobo,14974829,70771,212,Health Care,Health Care Equipment,yes
+SVB Financial,Greg Becker,10677545,132157,81,Financials,Regional Banks,yes
+Synchrony Financial,Margaret Keane,12181183,45407,268,Financials,Consumer Finance,yes
+Synopsys Inc.,na,-1,-1,-1,Information Technology,Application Software,no
+Sysco Corp.,Thomas L. BenÃ©,10742679,70801,152,Consumer Staples,Food Distributors,yes
+T-Mobile US,John J. Legere,27762231,62195,446,Communication Services,Wireless Telecommunication Services,yes
+T. Rowe Price Group,William J. Stromberg,14588346,109916,133,Financials,Asset Management & Custody Banks,yes
+Take-Two Interactive,Strauss Zelnick,18111761,62816,288,Communication Services,Interactive Home Entertainment,yes
+"Tapestry, Inc.",Jide Zeitlin,4911860,28523,172,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",yes
+Target Corp.,Brian C. Cornell,18938363,23080,821,Consumer Discretionary,General Merchandise Stores,yes
+TE Connectivity Ltd.,Terrence R. Curtin,9291836,20846,446,Information Technology,Electronic Manufacturing Services,yes
+TechnipFMC,Douglas J. Pferdehirt,15351206,63294,243,Energy,Oil & Gas Equipment & Services,yes
+Teledyne Technologies,na,-1,-1,-1,Industrials,Aerospace & Defense,no
+Teleflex,Liam J. Kelly,6782758,46589,146,Health Care,Health Care Equipment,yes
+Teradyne,Mark E. Jagiela,8007913,97185,82,Information Technology,Semiconductor Equipment,yes
+Texas Instruments,Richard K. Templeton,18655972,82034,227,Information Technology,Semiconductors,yes
+Textron Inc.,Scott C. Donnelly,18942936,99196,191,Industrials,Aerospace & Defense,yes
+Thermo Fisher Scientific,Marc N. Casper,19023145,80915,235,Health Care,Life Sciences Tools & Services,yes
+Tiffany & Co.,Alessandro Bogliolo,10940139,33642,325,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",yes
+TJX Companies Inc.,Ernie Herrman,19083676,12006,1590,Consumer Discretionary,Apparel Retail,yes
+Tractor Supply Company,Gregory A. Sandfort,8655358,28524,303,Consumer Discretionary,Specialty Stores,yes
+Trane Technologies plc,M. W. Lamach,24217128,54757,442,Industrials,Building Products,yes
+TransDigm Group,Kevin Stein,13135200,44072,298,Industrials,Aerospace & Defense,yes
+The Travelers Companies Inc.,Alan D. Schnitzer,16791247,111170,151,Financials,Property & Casualty Insurance,yes
+Truist Financial,Kelly S. King,11509407,101421,113,Financials,Regional Banks,yes
+"Twitter, Inc.",Jack Dorsey,1,213155,0,Communication Services,Interactive Media & Services,yes
+Tyler Technologies,H. Lynn Moore Jr.,19835252,84516,235,Information Technology,Application Software,yes
+Tyson Foods,Noel White,10398160,36681,283,Consumer Staples,Packaged Foods & Meats,yes
+"UDR, Inc.",Thomas W. Toomey,6307734,66909,94,Real Estate,Residential REITs,yes
+Ulta Beauty,Mary N. Dillon,14257713,25666,556,Consumer Discretionary,Specialty Stores,yes
+U.S. Bancorp,Andrew Cecere,18801847,69775,269,Financials,Diversified Banks,yes
+Under Armour,Kevin Plank,5954169,12126,491,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",yes
+Union Pacific Corp,Lance M. Fritz,15018400,79446,189,Industrials,Railroads,yes
+United Airlines Holdings,Oscar Munoz,12643005,74750,169,Industrials,Airlines,yes
+UnitedHealth Group Inc.,David S. Wichmann,18907522,54322,348,Health Care,Managed Health Care,yes
+United Parcel Service,David P. Abney,18040841,74395,243,Industrials,Air Freight & Logistics,yes
+"United Rentals, Inc.",Matthew Flannery,6215830,73881,84,Industrials,Trading Companies & Distributors,yes
+Universal Health Services,Alan B. Miller,24473240,38931,629,Health Care,Health Care Facilities,yes
+Unum Group,Richard P. McKenney,9896861,62475,158,Financials,Life & Health Insurance,yes
+VF Corporation,Steven E. Rendle,17842521,10099,1767,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",yes
+Valero Energy,Joseph W. Gorder,28175952,272417,103,Energy,Oil & Gas Refining & Marketing,yes
+Varian Medical Systems,Dow R. Wilson,9446296,109548,86,Health Care,Health Care Equipment,yes
+Ventas Inc,Debra A. Cafaro,11348335,101004,112,Real Estate,Health Care REITs,yes
+Verisign Inc.,D. James Bidzos,9024073,180475,50,Information Technology,Internet Services & Infrastructure,yes
+Verisk Analytics,Scott G. Stephenson,9050882,77055,117,Industrials,Research & Consulting Services,yes
+Verizon Communications,Hans Vestberg,18111823,172971,105,Communication Services,Integrated Telecommunication Services,yes
+Vertex Pharmaceuticals Inc,Jeffrey M. Leiden,18800000,232178,81,Health Care,Biotechnology,yes
+ViacomCBS,Robert M. Bakish,36572367,104791,349,Communication Services,Movies & Entertainment,yes
+Visa Inc.,Alfred F. Kelly Jr.,24265771,142494,170,Information Technology,Data Processing & Outsourced Services,yes
+Vontier,James A. Lico,13720993,56718,242,Information Technology,Electronic Equipment & Instruments,yes
+Vornado Realty Trust,Steven Roth,11466885,65442,175,Real Estate,Office REITs,yes
+Vulcan Materials,J. Thomas Hill,9574528,85562,112,Materials,Construction Materials,yes
+W. R. Berkley Corporation,W. Robert Berkley Jr.,11017931,105106,105,Financials,Property & Casualty Insurance,yes
+Westinghouse Air Brake Technologies Corp,Rafael Santana,7484027,42045,178,Industrials,Construction Machinery & Heavy Trucks,yes
+Walmart,C. Douglas McMillon,22105350,22484,983,Consumer Staples,Hypermarkets & Super Centers,yes
+Walgreens Boots Alliance,Stefano Pessina,19156202,34074,562,Consumer Staples,Drug Retail,yes
+DISNEY WALT CO,Robert A. Iger,47525560,52184,911,Communication Services,Movies & Entertainment,yes
+Waste Management Inc.,James C. Fish Jr.,11298101,76048,149,Industrials,Environmental & Facilities Services,yes
+Waters Corporation,Christopher J. O'Connell,8258221,78872,105,Health Care,Health Care Distributors,yes
+WEC Energy Group,J. Kevin Fletcher,9262101,127703,73,Utilities,Electric Utilities,yes
+Wells Fargo,Charles W. Scharf,36288490,65931,550,Financials,Diversified Banks,yes
+Welltower Inc.,Thomas J. DeRosa,13142124,90811,145,Real Estate,Health Care REITs,yes
+West Pharmaceutical Services,Eric M. Green,6479661,49229,132,Health Care,Health Care Supplies,yes
+Western Digital,Stephen D. Milligan,12866469,10063,1279,Information Technology,"Technology Hardware, Storage & Peripherals",yes
+Western Union Co,Hikmet Ersek,10099500,31966,316,Information Technology,Data Processing & Outsourced Services,yes
+WestRock,Steven C. Voorhees,11659257,58183,200,Materials,Paper Packaging,yes
+Weyerhaeuser,Devin W. Stockfish,9957168,63464,157,Real Estate,Specialized REITs,yes
+Whirlpool Corp.,Marc R. Bitzer,14011663,20765,675,Consumer Discretionary,Household Appliances,yes
+Williams Companies,Alan S. Armstrong,15590338,177403,88,Energy,Oil & Gas Storage & Transportation,yes
+Willis Towers Watson,John Haley,18691731,70319,266,Financials,Insurance Brokers,yes
+Wynn Resorts Ltd,Matt Maddox,17227260,44492,387,Consumer Discretionary,Casinos & Gaming,yes
+Xcel Energy Inc,Ben Fowke,12147768,108946,112,Utilities,Multi-Utilities,yes
+Xerox,Giovanni (John) Visentin,23902481,43953,544,Information Technology,"Technology Hardware, Storage & Peripherals",yes
+Xilinx,Victor Peng,11222252,133233,84,Information Technology,Semiconductors,yes
+Xylem Inc.,Patrick K. Decker,8300000,49549,168,Industrials,Industrial Machinery,yes
+Yum! Brands Inc,Greg Creed,16369090,11584,1413,Consumer Discretionary,Restaurants,yes
+Zebra Technologies,Anders Gustafsson,10150109,66632,152,Information Technology,Electronic Equipment & Instruments,yes
+Zimmer Biomet,Bryan C. Hanson,11176720,69683,160,Health Care,Health Care Equipment,yes
+Zions Bancorp,Harris H. Simmons,4363039,66890,65,Financials,Regional Banks,yes
+Zoetis,Juan RamÃ³n Alaix,11669400,75366,155,Health Care,Pharmaceuticals,yes
